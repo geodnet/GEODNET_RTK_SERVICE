@@ -14,7 +14,7 @@ Table 1. Mountpoints of GEODNET RTK service
 |1|AUTO|Regional Geodetic Coordinate System (RGCS)|
 |2|AUTO_ITRF2020|ITRF2020 Geodetic Coordinate System at epoch 2015.0|
 |3|AUTO_ITRF2014|ITRF2014 Geodetic Coordinate System with current epoch|
-|4|AUTO_WGS84<sup>1</sup>|WGS84(G2139) in the middle of the current year (for example, 2025.5 for year 2025, 2024.0 for year 2024)|
+|4|AUTO_WGS84<sup>1</sup>|WGS84(G2139) in the middle of the current year (for example, 2025.5 for year 2025, 2024.5 for year 2024)|
 
 ### RTK service messages
 GEODNET provides RTK corrections using RTCM 3.2 MSM message (1074,1084,1094,1124,1104 and 1134 are depending on regions, as shown in Table 2). 
