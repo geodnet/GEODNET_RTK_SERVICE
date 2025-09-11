@@ -14,7 +14,7 @@ Table 1. Mountpoints of GEODNET RTK service
 |1|AUTO|Regional Geodetic Coordinate System (RGCS) (https://github.com/geodnet/geodnet_rtk_service_coordinate_system)|
 |2|AUTO_ITRF2020|ITRF2020 Geodetic Coordinate System at epoch 2015.0|
 |3|AUTO_ITRF2014|ITRF2014 Geodetic Coordinate System with current epoch|
-|4|AUTO_WGS84<sup>1</sup>|WGS84(G2139) in the middle of the current year (for example, 2025.5 for year 2025, 2024.5 for year 2024)|
+|4|AUTO_WGS84|WGS84(G2139) in the middle of the current year (for example, 2025.5 for year 2025, 2024.5 for year 2024)|
 
 ### NMEA GGA Position upload
 It is very important to upload the NMEA GGA position from the RTK device to GEODNET server, otherwise, there will be no RTK corrections received in the device.  
