@@ -50,6 +50,10 @@ The EU server can proivde the best age of differential for Europian customers.
 http://aus.geodnet.com:2101  
 http://54.206.56.130:2101  
 The AUS server can proivde the best age of differential for australian and nearby customers.    
+### SA (South America) server
+http://18.230.73.64:2101  
+http://sa.geodnet.com:2101  
+The SA server can proivde the best age of differential for south america and nearby customers.
 
 ## RTK Coverage
 use https://rtk.geodnet.com/ to check RTK coverage map.   
