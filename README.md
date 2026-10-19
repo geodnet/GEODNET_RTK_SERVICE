@@ -2,7 +2,7 @@
 GEODNET provides the RTK service globally to enable cm positioning within seconds.
 
 ## Free Trial & Purchase RTK service
-https://geodnet.com/free  
+https://geodnet.com/free-rtk-trial
 
 ## How To Access RTK Service
 Currently, GEODNET RTK service is based on Nearest-base RTK service. GEODNET provides serval mountpoints (AUTO, AUTO_ITRF2020, AUTO_ITRF2014, AUTO_WGS84) based on Ntrip 1.0 (as shown in Table 1).  
@@ -54,6 +54,10 @@ The AUS server can proivde the best age of differential for australian and nearb
 http://18.230.73.64:2101  
 http://sa.geodnet.com:2101  
 The SA server can proivde the best age of differential for south america and nearby customers.
+### IND server
+http://13.203.34.145:2101  
+http://ind.geodnet.com:2101  
+The IND server can provide the best age of differential for Indian and nearby customers.
 
 ## RTK Coverage
 use https://rtk.geodnet.com/ to check RTK coverage map.   
